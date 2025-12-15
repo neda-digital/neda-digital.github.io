@@ -1,4 +1,9 @@
-# Happy Christmas
+---
+title: Christmas
+nav_order: 3
+---
+
+# Happy Christmas!
 
 ```
       *             ,
