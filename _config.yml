@@ -1,0 +1,19 @@
+# site configuration
+
+theme: jekyll-theme-chirpy
+
+lang: de
+
+timezone: Europe/Berlin
+
+# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+title: NeDa
+
+tagline: Netzwerk für Datenbanklehre
+
+description: NeDa - Das Netzwerk für Datenbanklehre
+
+author:
+  name: NeDa.digital
+  # sets the `author.url` property. helps Google to disambiguate the correct author of articles
+  url: https://github.com/neda-digital
