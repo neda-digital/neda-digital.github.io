@@ -20,6 +20,8 @@ author:
 
 # url: "https://neda.digital"
 
+baseurl: "" # the subpath of your site, e.g. /blog
+
 repository: neda-digital/neda-digital.github.io
 
 permalink: pretty
