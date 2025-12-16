@@ -8,14 +8,14 @@ nav_order: 2
 
 ## Professor Dr. Frank Kammer
 
-![]({{ site.baseurl }}/assets/images/members/torsten-munkelt.jpg)
+![]({{ site.baseurl }}/assets/images/members/frank-kammer.jpg)
 
 - **Interessen**: DB-Lehre
-- [**Mehr Informationen**](https://www.thm.de/mni/frank-kammer)
+- [**Mehr Informationen**](https://www.thm.de/mni/frank-kammer.jpg)
 
 ## Professor Dr. habil. Markus Siepermann
 
-![]({{ site.baseurl }}/assets/images/members/torsten-munkelt.jpg)
+![]({{ site.baseurl }}/assets/images/members/markus-siepermann.jpg)
 
 - **Interessen**: DB-Lehre
 - [**Mehr Informationen**](https://www.thm.de/mni/markus-siepermann)
