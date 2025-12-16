@@ -11,7 +11,7 @@ nav_order: 2
 ![]({{ site.baseurl }}/assets/images/members/frank-kammer.jpg)
 
 - **Interessen**: DB-Lehre
-- [**Mehr Informationen**](https://www.thm.de/mni/frank-kammer.jpg)
+- [**Mehr Informationen**](https://www.thm.de/mni/frank-kammer)
 
 ## Professor Dr. habil. Markus Siepermann
 
