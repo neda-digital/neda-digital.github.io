@@ -5,5 +5,3 @@ nav_order: 6
 ---
 
 # Intelligente Tutoring Systeme
-
-##
