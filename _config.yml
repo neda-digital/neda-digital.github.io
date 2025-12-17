@@ -98,6 +98,8 @@ nav_enabled: true
 
 # External navigation links
 nav_external_links:
+  - title: Beim nächsten Treffen teilnehmen
+    url: "mailto:paul.christ@fernuni-hagen.de?subject=Ich möchte am nächsten Treffen teilnehmen&body=Hallo,%0%0Dich möchte gerne am nächsten Treffen teilnehmen!"
   - title: NeDa auf GitHub
     url: https://github.com/neda-digital
 
