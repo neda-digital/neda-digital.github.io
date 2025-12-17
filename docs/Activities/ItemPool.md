@@ -81,4 +81,4 @@ Die API soll zukünftig um weitere Aufgabentypen und die Erfassung von (anonymis
 ---
 
 [^1]: Garner, W.R. (1974). The Stimulus in Information Processing. In: Moskowitz, H.R., Scharf, B., Stevens, J.C. (eds) Sensation and Measurement. Springer, Dordrecht. https://doi.org/10.1007/978-94-010-2245-3_7
-[^2]: https://github.com/neda-digital/ItemPoolAPI/wiki/API-Sequence-Diagram
+[^2]: [https://github.com/neda-digital/ItemPoolAPI/wiki/API-Sequence-Diagram](https://github.com/neda-digital/ItemPoolAPI/wiki/API-Sequence-Diagram)
