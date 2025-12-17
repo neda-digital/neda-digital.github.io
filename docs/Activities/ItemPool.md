@@ -16,7 +16,7 @@ Die [Item-Pool-API](https://github.com/neda-digital/ItemPoolAPI) versucht, diese
 Nachfolgendes Sequenz-Diagramm zeigt die Prozessschritte der API während des Imports einer Aufgabe. Der erste Prozessschrit ist die Zerlegung einer Aufgabe in einzelne Bestandteile (Stimuli [^1] und Musterlösungen), das Erfassen von Metadaten - insbesondere Merkmale der jeweiligen Aufgabenbestandteile (z. B. Metriken zur Komplexität einer SQL-Abfrage oder Verständlichkeit eines Texts) - und das Abspeichern der Bestandteile mitsamt der erfassten Metadaten.
 
 ```mermaid
-sequenceDiagram Import new task
+sequenceDiagram
   actor Client as Client
   participant TaskRegistrationRouter as TaskRegistrationRouter
   participant TaskRegistrationController as TaskRegistrationController
