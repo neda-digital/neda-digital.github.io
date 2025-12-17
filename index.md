@@ -15,4 +15,4 @@ Das Netzwerk tauscht sich regelmäßig - im ca. 1-monatigen Rythmus - über dida
 
 Wenn Sie Interesse haben, am nächsten Treffen teilzunehmen, nehmen Sie gerne Kontakt mit uns auf!
 
-<a href="mailto:paul.christ@fernuni-hagen.de?subject=Ich möchte am nächsten Treffen teilnehmen&body=Hallo,%0Dich möchte gerne am nächsten Treffen teilnehmen!">Am nächsten Treffen teilnehmen!</a>
+<a href="mailto:paul.christ@fernuni-hagen.de?subject=Ich möchte am nächsten Treffen teilnehmen&body=Hallo,%0%0Dich möchte gerne am nächsten Treffen teilnehmen!">Am nächsten Treffen teilnehmen!</a>

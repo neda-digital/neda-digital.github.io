@@ -84,11 +84,13 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
+  "Beim nächsten Treffen teilnehmen":
+    - "mailto:paul.christ@fernuni-hagen.de?subject=Ich möchte am nächsten Treffen teilnehmen&body=Hallo,%0%0Dich möchte gerne am nächsten Treffen teilnehmen!"
   "NeDa auf GitHub":
     - "https://github.com/neda-digital"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 # Enable or disable the side/mobile menu globally
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
