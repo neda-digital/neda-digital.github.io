@@ -85,7 +85,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Beim nächsten Treffen teilnehmen":
-    - "mailto:paul.christ@fernuni-hagen.de?subject=Ich möchte am nächsten Treffen teilnehmen&body=Hallo,%0D%0A%0D%0ADich möchte gerne am nächsten Treffen teilnehmen!"
+    - "mailto:netzwerk.datenbanklehre@gmail.com?subject=Ich möchte am nächsten Treffen teilnehmen&body=Hallo, ich möchte gerne am nächsten Treffen teilnehmen!"
   "NeDa auf GitHub":
     - "https://github.com/neda-digital"
 
@@ -99,7 +99,7 @@ nav_enabled: true
 # External navigation links
 nav_external_links:
   - title: Beim nächsten Treffen teilnehmen
-    url: "mailto:paul.christ@fernuni-hagen.de?subject=Ich möchte am nächsten Treffen teilnehmen&body=Hallo,%0D%0A%0D%0ADich möchte gerne am nächsten Treffen teilnehmen!"
+    url: "mailto:netzwerk.datenbanklehre@gmail.com?subject=Ich möchte am nächsten Treffen teilnehmen&body=Hallo, ich möchte gerne am nächsten Treffen teilnehmen!"
   - title: NeDa auf GitHub
     url: https://github.com/neda-digital
 
